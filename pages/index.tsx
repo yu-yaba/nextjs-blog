@@ -28,7 +28,7 @@ export default function Home({ allPostsData }: any) {
         <title>{siteTitle}</title>
       </Head>
       <section>
-        <p className={utilStyles.headingMd}>私はエンジニア志望です</p>
+        <p className={utilStyles.headingMd}>私はフロントエンドエンジニア志望です</p>
       </section>
 
       <section>
